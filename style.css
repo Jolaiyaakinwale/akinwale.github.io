@@ -1,0 +1,43 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'IBM Plex Sans', sans-serif;
+	 background: url(akin.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 3rem;
+	color:#5E5757;
+}
+hr{
+	border-color:#f05f44;
+	border-width: 3px;
+	max-width: 60px; 
+	align-items: center;
+}
+.buffer{
+	height: 10rem;
+}
+.btn{
+	font-weight: : 700px;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color: #f05f44;
+	border-color: #f05f44
+}
+.btn-primary:hover{
+	background-color: #ee4b08;
+	border-color:#ee4b08;
+	border-width: 4px;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+https://dynamic.brandcrowd.com/preview/logodraft/f…58c88-2fd5-4ffb-9fe4-3c55875661ff/image/large.png
